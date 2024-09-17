@@ -4,9 +4,9 @@
 - Be <b>active</b>
 - Be <b>respectful</b>
 
-<b>Diplomacy: </b>REDKing, Sixxx
-<b>Recruit: </b>REDKing, Sixxx
-<b>Territory: </b>Rabbit, Goku
-<b>Technology: </b>Ronparrot
-<b>Event: </b>Rabbit, Goku
-<b>AoO: </b>Ronparrot, Neverdie
+<b>Diplomacy: </b>Sixxx, R4bb1t
+<b>Recruit: </b>Sixxx
+<b>Territory: </b>Rabbit, Sixxx
+<b>Technology: </b>Rabbit, Ronparrot
+<b>Event: </b>Neverdie, LordGoku, Rabbit
+<b>AoO: </b>Arvix, Just AR, Ronparrot
