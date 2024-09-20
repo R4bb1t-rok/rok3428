@@ -1,0 +1,17 @@
+<size=38><color=grey>═══════</color><color=#246089>  ༺✿༻</color><color=grey>═══════</color></size>
+<b><color=#246089><size=30>Policy of kicking from an alliance</size></color></b>
+As the number of participants in the alliance increased, we decided to set standards for members to stay.
+
+<b><color=#246089><size=30>Power requirement</size></color></b>
+First of all, we set the power requirement at 500K first. Those who are not good enough need to increase their military strength quickly. And this requirement will be gradually raised.
+
+<b><color=#246089><size=30>Priority of kicking</size></color></b>
+Accounts that fall short of the above requirement or are considered inactive in the following ways could get kicked at any time. However, that doesn't mean permanent expulsion, so if you apply again, we could accept by kicking another inactive account.
+<b>1.</b> Number of Helps
+<b>2.</b> Contribution to alliance tech
+<b>3.</b> Rally participation rate
+The number of helps and contribution to tech can be seen by anyone from the alliance ranking.
+
+<b><color=#246089><size=30>Farm account</size></color></b>
+Also, even if your farm account is kicked, it will be temporarily accepted if you apply for resource transfer in the alliance chat. In that case, please allow the account to be removed from the alliance as soon as the resource transfer is completed. Farm accounts that have repeatedly forgotten this will be blacklisted.
+<size=38><color=grey>═══════</color><color="#246089">  ༺✿༻</color><color=grey>═══════</color></size>
