@@ -1,6 +1,9 @@
 <size=38><color=grey>═══════</color><color=#246089>  ༺✿༻</color><color=grey>═══════</color></size>
 <b><color=#246089><size=30>Prohibition in L28g</size></color></b>
 Those who violate the following will kicked from the alliance and <b>get zeroed without notice</b>. <b><color=red>No excuse will work.</color></b>
+<b><color=red><size=30>overlook alliance mail and kingdom mail</size></color></b>
+<b>It is both your fault</b> to overlook email and to fail to confirm any unclear points in email. Not surprisingly, not having checked mails can't be any excuse, it's just your fault.
+
 <b><color=red><size=30>DON'T place your city within the territory</size></color></b>
 Placement of the city within the territory hinders the generation of resources. That is very annoying and bad behavior. Please place the city on the edge or outside of the territory, not within the territory. Edge refers to the boundary of a territory. 
 Please make sure to <b>move your city to the appropriate place by midnight on September 23rd</b>. I will send the list of members who need to move city.
@@ -10,6 +13,9 @@ Don't attack other players, even if he doesn't belong to any alliance or feels l
 
 <b><color=#246089><size=30>DON'T leave rss nodes with unfinish it</size></color></b>
 You can see many half-baked rss nodes in Zone 3. This is very embarrassing. If you find someone leaving without completing the rss nodes, screenshot the evidence and share it in Alliance Chat. He will get punished. If your troops are not sufficient to complete a high level of rss nodes, move away from Zone 3 or mine only low level rss nodes.
+
+<b><color=#246089><size=30>DON'T exceed the MGE point limit.</size></color></b>
+Sometimes, before the MGE is held, explanations of the upper limit of points are sent via Kingdom Mail. Be sure to follow that rule.
 
 <b><color=#246089><size=30>DON'T kill the Lost Temple Guardians out of time</size></color></b>
 The time to do it is set by the kingdom. However, it is wrong to do it alone even at that time. Please make sure to <b>invite others through the Kingdom Chat</b> before doing so.
