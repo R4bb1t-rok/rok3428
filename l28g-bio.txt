@@ -1,9 +1,7 @@
-<b><size=36><color=#800000>༺</color><color=#99000A>R</color><color=#A6000F>E</color><color=#B30014>D</color><color=#C0001A> </color><color=#CC001F>D</color><color=#D90024>r</color><color=#E60029>a</color><color=#F2002E>g</color><color=#FF0033>o</color><color=#F1002D>n</color><color=#E30028> </color><color=#D50022>R</color><color=#C7001C>e</color><color=#B80017>t</color><color=#AA0011>u</color><color=#9C000B>r</color><color=#8E0006>n</color><color=#800000>༻</color></size></b>
-
-<size=20>We won <b>1st place</b> in the kingdom with the most recent(Sep, 2024) <b>Clarion Call</b> and <b>King of Tribes</b>!</size>
+<b><size=36><color=#800000>༺</color><color=#A00000>L</color><color=#B00000>o</color><color=#C00000>r</color><color=#CF0000>d</color><color=#DF0000>s</color><color=#EF0000> </color><color=#FF0000>o</color><color=#EF0000>f</color><color=#DF0000> </color><color=#CF0000>G</color><color=#C00000>l</color><color=#B00000>o</color><color=#A00000>r</color><color=#900000>y</color><color=#800000>༻</color></size></b>
 
 <b>Requirements: </b>
-- Power: at least <b>500K</b>
+- Power: at least <b>1M</b>
 - Be <b>active</b>
 - Be <b>respectful</b>
 
