@@ -1,13 +1,17 @@
 <b><size=36><color=#800000>༺</color><color=#A00000>L</color><color=#B00000>o</color><color=#C00000>r</color><color=#CF0000>d</color><color=#DF0000>s</color><color=#EF0000> </color><color=#FF0000>o</color><color=#EF0000>f</color><color=#DF0000> </color><color=#CF0000>G</color><color=#C00000>l</color><color=#B00000>o</color><color=#A00000>r</color><color=#900000>y</color><color=#800000>༻</color></size></b>
+<size=24>- <b>Family: </b>28LV
+- <b>Allies: </b>#3443, #3433, #3454
+<color=yellow><b>Only R3 or above Members can enter Lost Kingdom for now, NO EXCEPTIONS.</b></color></size>
 
+<size=20><b>We place importance on being disciplined. Make sure to READ ALL Alliace Mail and Markers</b>
 <b>Requirements: </b>
-- Power: at least <b>1M</b>
+- <b>Power: 5M</b>
 - Be <b>active</b>
 - Be <b>respectful</b>
 
-<b>Territory: </b>Rabbit, Sixxx
-<b>Technology: </b>Rabbit, Sixxx
+<b>R5: </b>Rabbit, Sixxx
+<b>Territory, Tech: </b>R5
 <b>AoO: </b>Arvix, Just AR, Ronparrot
-<b>Diplomacy: </b>All r4
-<b>Recruit: </b>All r4
-<b>Event: </b>All r4
+<b>Diplomacy,Recruit,Event: </b>All R4</size>
+
+<b>♡可愛いは正義♡</b> ©️Nao&Mao
