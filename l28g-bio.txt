@@ -1,9 +1,9 @@
-<color=#800000>༺</color><color=#A0000D>L</color><color=#B00013>o</color><color=#C0001A>t</color><color=#CF0020>u</color><color=#DF0026>s</color><color=#EF002D> </color><color=#FF0033>o</color><color=#EF002D>f</color><color=#DF0026> </color><color=#CF0020>G</color><color=#C0001A>l</color><color=#B00013>o</color><color=#A0000D>r</color><color=#900006>y</color><color=#800000>༻</color>
+<b><size=46><color=#800000>༺</color><color=#A0000D>L</color><color=#B00013>o</color><color=#C0001A>t</color><color=#CF0020>u</color><color=#DF0026>s</color><color=#EF002D> </color><color=#FF0033>o</color><color=#EF002D>f</color><color=#DF0026> </color><color=#CF0020>G</color><color=#C0001A>l</color><color=#B00013>o</color><color=#A0000D>r</color><color=#900006>y</color><color=#800000>༻</color></size></b>
+<size=22>- <b>Family: </b>28LV
+- <b>Allies: </b>#3443, #3433, #3454</size>
 
-<size=24>- <b>Family: </b>28LV
-- <b>Allies: </b>#3443, #3433, #3454
+<size=20><b><color=yellow>We place importance on being disciplined. Make sure to READ ALL Mails and Markers</color></b>
 
-<size=20><b>We place importance on being disciplined. Make sure to READ ALL Mails and Markers</b>
 <b>Requirements: </b>
 - <b>Power: <color=yellow>5M</color></b>
 - Be <b>disciplined</b>
