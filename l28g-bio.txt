@@ -1,11 +1,12 @@
-<b><size=36><color=#800000>༺</color><color=#A00000>L</color><color=#B00000>o</color><color=#C00000>r</color><color=#CF0000>d</color><color=#DF0000>s</color><color=#EF0000> </color><color=#FF0000>o</color><color=#EF0000>f</color><color=#DF0000> </color><color=#CF0000>G</color><color=#C00000>l</color><color=#B00000>o</color><color=#A00000>r</color><color=#900000>y</color><color=#800000>༻</color></size></b>
+<color=#800000>༺</color><color=#A0000D>L</color><color=#B00013>o</color><color=#C0001A>t</color><color=#CF0020>u</color><color=#DF0026>s</color><color=#EF002D> </color><color=#FF0033>o</color><color=#EF002D>f</color><color=#DF0026> </color><color=#CF0020>G</color><color=#C0001A>l</color><color=#B00013>o</color><color=#A0000D>r</color><color=#900006>y</color><color=#800000>༻</color>
+
 <size=24>- <b>Family: </b>28LV
 - <b>Allies: </b>#3443, #3433, #3454
-<color=yellow><b>Only R3 or above Members can enter Lost Kingdom for now, NO EXCEPTIONS.</b></color></size>
 
-<size=20><b>We place importance on being disciplined. Make sure to READ ALL Alliace Mail and Markers</b>
+<size=20><b>We place importance on being disciplined. Make sure to READ ALL Mails and Markers</b>
 <b>Requirements: </b>
-- <b>Power: 5M</b>
+- <b>Power: <color=yellow>5M</color></b>
+- Be <b>disciplined</b>
 - Be <b>active</b>
 - Be <b>respectful</b>
 
@@ -14,4 +15,4 @@
 <b>AoO: </b>Arvix, Just AR, Ronparrot
 <b>Diplomacy,Recruit,Event: </b>All R4</size>
 
-<b>♡可愛いは正義♡</b> ©️Nao&Mao
+<b>♡可愛いは正義♡ by Nao&Mao</b>
